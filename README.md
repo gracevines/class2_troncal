@@ -7,3 +7,4 @@ Look at this damned Freak
 Elements are green af
 Attributes are Blue AF and inside elements
 You cant teach the element to group up but attributes exhibit Herd Behaviour
+You can also edit elements inside style for them to exhibit site wide changes. So if i said "All h1 headers use green now" inside the style theyd all flip to Green it up
